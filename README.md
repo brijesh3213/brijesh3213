@@ -11,7 +11,7 @@ Passionate **Full Stack Developer** with experience in building dynamic web appl
 - Tailwind CSS, Framer Motion
 
 **Backend:**
-- Node.js, Express.js, WebSockets
+- Node.js, Express.js, WebSockets, WebRTC, Socket.IO
 - OAuth, Passport.js, Zod
 - PHP, Laravel, WordPress
 
