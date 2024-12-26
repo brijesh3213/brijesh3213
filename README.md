@@ -16,18 +16,13 @@ Passionate **Full Stack Developer** with experience in building dynamic web appl
 - PHP, Laravel, WordPress
 
 **DevOps:**
-- Docker, AWS, Nginx
+- Docker, AWS, Nginx , Azura ,C-Pannel
 
 **Databases:**
 - MongoDB, PostgreSQL, MySQL
 
 ---
 
-## 🌐 Socials:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Reddit](https://www.reddit.com/user/your-profile)
-
----
 
 ## 💻 Tech Stack:
 - **Frontend:** HTML5, JavaScript, CSS3, TailwindCSS, TypeScript, React, Next.js, React Native
