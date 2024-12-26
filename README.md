@@ -1,27 +1,39 @@
-💫 About Me:
-Passionate Full Stack Developer with experience in building end-to-end encrypted chat services. Currently dedicated in improving my DSA skills to become a better problem solver and deliver more efficient, scalable solutions.
+# 💫 About Me:
+Passionate **Full Stack Developer** with experience in building dynamic web applications and mobile apps using the **MERN stack** and **React Native**. I specialize in building scalable, user-centric solutions and am dedicated to continuously improving my problem-solving abilities. Currently diving deep into **PHP** and **CMS development** to broaden my expertise.
 
-Skills
-Frontend - Html, Css, React Js, Javascript, Typescript, Nextjs14, Tailwind, Framer-motion
+---
 
-Backend - Node.js, Express, WebSockets, OAuth, Zod, Passport.js
+## 🛠️ Skills
 
-DevOps - Dockers, AWS, Nginx
+**Frontend:**
+- HTML5, CSS3, JavaScript, TypeScript
+- React.js, Next.js 14, React Native
+- Tailwind CSS, Framer Motion
 
-DataBase - MongoDB, PostgreSQL
+**Backend:**
+- Node.js, Express.js, WebSockets
+- OAuth, Passport.js, Zod
+- PHP, Laravel, WordPress
 
-🌐 Socials:
-LinkedIn Reddit
+**DevOps:**
+- Docker, AWS, Nginx
 
-💻 Tech Stack:
-HTML5 JavaScript CSS3 TailwindCSS TypeScript AWS GithubPages Firebase Vercel Render Socket.io React NPM Next JS NodeJS Zod Nginx MongoDB Postgres MySQL Canva GitHub Git Postman Docker
+**Databases:**
+- MongoDB, PostgreSQL, MySQL
 
-📊 GitHub Stats:
+---
 
+## 🌐 Socials:
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Reddit](https://www.reddit.com/user/your-profile)
 
+---
 
-
-🏆 GitHub Trophies
-
-
-🔝 Top Contributed Repo
+## 💻 Tech Stack:
+- **Frontend:** HTML5, JavaScript, CSS3, TailwindCSS, TypeScript, React, Next.js, React Native
+- **Backend:** Node.js, Express.js, PHP, Laravel, WordPress
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Cloud & DevOps:** AWS, Docker, Nginx
+- **Real-Time Communication:** WebSockets, Socket.io
+- **Version Control & CI/CD:** Git, GitHub, GitLab, Docker, Jenkins
+- **CMS:** WordPress, Ghost, Joomla
